@@ -8,7 +8,7 @@
   <br />
   <br />
   
-  <img src="./readme-images/project-logo.png" />
+  <img src="./assets/images/logo.svg" />
 
   <h2 align="center">Watchista - Movie Reviews Ratings</h2>
 
